@@ -1,4 +1,4 @@
-package firsPackage;
+package firstPackage;
 
 public class SecondClass {
 
